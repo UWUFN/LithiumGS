@@ -1,4 +1,6 @@
 # LithiumGS
 leaked gameserver for og fortnite multiplayer :trollface: the owner got ratted by storm
-# how 2 run
-just download the exe and run it, instructions are in the exe and hosting is dirty easy :skull: now we have a free gs
+# how 2 download
+go to releases and download the exe, you can virus scan it, its not a virus
+# other info
+this gs is actually comparable to riftfn or fortmp, just gotta have a good pc to host it on
