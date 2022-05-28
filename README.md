@@ -7,6 +7,8 @@ THE USER AND PASS ARE BOTH "admin"
 # other info
 this gs is actually comparable to riftfn or fortmp, just gotta have a good pc to host it on
 
+ [![lithium mp showcase](https://cdn-cf-east.streamable.com/image/htygee.jpg)](https://streamable.com/htygee)
+
 # update info
 
 v0.1 - shit was ass ig
